@@ -32,7 +32,7 @@ A real-time terminal system monitor built in Rust using [Ratatui](https://ratatu
 Clone the repository and build with Cargo:
 
 ```bash
-git clone https://github.com/YounassAg/system_monitor.git
+git clone https://github.com/YounassAg/System-monitor.git
 cd system_monitor
 cargo build --release
 ```
